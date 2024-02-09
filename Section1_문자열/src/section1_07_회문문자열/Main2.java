@@ -10,6 +10,8 @@ public class Main2 {
 		if(!s.equals(s2)) return "NO";
 		return "YES";
 	}
+	
+	
 	public static void main(String[] args) {
 		Main2 T = new Main2();
 		Scanner scan = new Scanner(System.in);
