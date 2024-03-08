@@ -1,4 +1,4 @@
-package serction7_01_재귀함수;
+package section7_01_재귀함수;
 import java.util.*;
 
 
