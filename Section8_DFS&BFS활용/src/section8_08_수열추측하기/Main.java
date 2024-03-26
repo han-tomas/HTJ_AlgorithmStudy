@@ -1,4 +1,4 @@
-package section8_09_수열추측하기;
+package section8_08_수열추측하기;
 import java.util.*;
 
 
